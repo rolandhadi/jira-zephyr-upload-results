@@ -24,7 +24,10 @@ jira.cloud.attachment.extension=html
 jira.cloud.report.issuekey=PRJ-80
 ```
 
-jira.cloud.report.issuekey is a jira id where you want to upload screenshots, other reports etc.
+jira.cloud.report.issuekey is a jira ticket where you want to upload screenshots, other reports.
+```
+jira.cloud.report.issuekey=PRJ-80
+```
 
 # usage
 ```
