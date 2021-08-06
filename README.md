@@ -28,5 +28,5 @@ jira.cloud.report.issuekey is a jira id where you want to upload screenshots, ot
 
 # usage
 ```
-TestAutomation.py attach "<junit_report.xml>" "<jira_version>" "<zephyr_test_cycle>"
+python TestAutomation.py attach "<junit_report.xml>" "<jira_version>" "<zephyr_test_cycle>"
 ```
